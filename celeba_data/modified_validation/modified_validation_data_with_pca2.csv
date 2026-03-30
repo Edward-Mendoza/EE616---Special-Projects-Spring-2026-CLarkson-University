@@ -1,0 +1,10 @@
+Margins,
+76%,margins pc1 vs headsize
+62%,margins pc2 vs headsize
+84%,margins pc1+pc2 vs headsize
+-89%,margins pc1 vs MarginAboveOfTheFaceImage
+9%,margins pc2 vs MarginAboveOfTheFaceImage
+-67%,margins pc1+pc2 vs MarginAboveOfTheFaceImage
+-74%,margins pc1 vs MarginBelowOfTheFaceImage
+-89%,margins pc2 vs MarginBelowOfTheFaceImage
+-93%,margins pc1+pc2 vs MarginBelowOfTheFaceImage
